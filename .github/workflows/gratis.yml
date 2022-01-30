@@ -1,4 +1,4 @@
-name: B.F.H
+name: CI
 
 on: workflow_dispatch
 
